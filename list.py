@@ -1,4 +1,4 @@
-fruits = ['apple' , 'banana']
-another fruits = ['litchi' , 'gauva']
- print(fruits.extend(another fruits))
+fruits = ['apple', 'banana']
+another_fruits = ['litchi', 'gauva']
+fruits.extend(another_fruits)
 print(fruits)
